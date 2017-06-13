@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasnimmansur/todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tasnimmansur/todo/issues"
+  },
+  "homepage": "https://github.com/tasnimmansur/todo#readme",
+  "dependencies": {
+    "ejs-locals": "^1.0.2",
+    "express": "^3.21.2",
+    "favicon": "0.0.2"
+  }
+}
